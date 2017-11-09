@@ -1,13 +1,9 @@
-﻿ul {
+﻿.topnav {
     overflow: hidden;
     background-color: #333;
 }
 
-li {
-    float: left;
-}
-
-li a {
+.topnav a {
     float: left;
     display: block;
     color: white;
@@ -17,12 +13,12 @@ li a {
     font-size: 17px;
 }
 
-li a:hover {
+.topnav a:hover {
     background-color: #111;
     color: black;
 }
 
-.topnav a.active{
+.topnav a.active {
     background-color: Black;
     color: white;
 }
