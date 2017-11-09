@@ -4,11 +4,11 @@ position: relative;
 
 #ad {
 position: absolute;
-right: -140px;
+right: 140px;
 }
 #ad{
 width: 500px;
-border: 8px solid blue;
+border: 6px solid Black;
 padding: 0;
 margin: 0;
 }
