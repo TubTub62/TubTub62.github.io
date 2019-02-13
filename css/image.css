@@ -15,7 +15,7 @@
 }
 
 .dbutton {
-    float:right;
+    float: auto;
     padding:16px 28px;
     margin:4px 2px;
     border:none;
